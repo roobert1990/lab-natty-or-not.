@@ -15,7 +15,7 @@ Usei o ChatGPT para criar uma imagem de como seria o futuro daqui a 20 anos, o A
 ## 🚀 Resultados
  Imagem criada bem realista.
 
-Link das imagem **[IMAGEM]()**
+Link das imagem **[IMAGEM](https://github.com/roobert1990/lab-natty-or-not./tree/main/Imagens)**
 
 ## 💭 Reflexão (Opcional)
 As imagens geradas são bem futurista, alguns pontos desafiam as leis da física, mas outros seria possivel um dia ser real, como por exemplo grandes arranha-céu.
